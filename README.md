@@ -1,6 +1,6 @@
-# my-awesome-project
-This awesome project is created to experiment git notions like clone, push and pull
-Achievemrnts : "J'ai réussi à faire clone, pull et je m'apprête à faire push"
+/* # my-awesome-project
+* This awesome project is created to experiment git notions like clone, push and pull
+* Achievemrnts : "J'ai réussi à faire clone, pull et je m'apprête à faire push"*/cd 
 
 <!DOCTYPE html>
 <html lang="en">
@@ -49,8 +49,8 @@ Achievemrnts : "J'ai réussi à faire clone, pull et je m'apprête à faire push
     <label for="champ-message">Votre message:</label>
     <textarea id="champ-message" name="message" rows="5"></textarea>
     </div>
-    <div  class="button">
-      <button  type="submit">Envoyer votre message</button>
+    <div class="button">
+      <button type="submit">Envoyer votre message</button>
     </div>
   </form>
 </body>
